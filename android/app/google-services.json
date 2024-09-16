@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137411110746",
+    "project_id": "learn-firebase-42edf",
+    "storage_bucket": "learn-firebase-42edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137411110746:android:bba2abd7956e2842d83563",
+        "android_client_info": {
+          "package_name": "com.example.wael"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137411110746-258tij7k8eua21qit2uuhqbp05l2e877.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq0acgiPJ-sy1rsD2EKsRTIjZsBp-Zn7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137411110746-258tij7k8eua21qit2uuhqbp05l2e877.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
